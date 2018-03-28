@@ -1,6 +1,6 @@
 # golamb
 
-Tiny utility to wrap the lambda build flags for OSX.
+Tiny utility to wrap the AWS lambda build flags for OSX.
 
 ## Usage
 
